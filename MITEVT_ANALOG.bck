@@ -6,4 +6,10 @@ K N-Channel MOSFET
 F http://www.mouser.com/ds/2/200/irf7101pbf-222876.pdf
 $ENDCMP
 #
+$CMP SN74LV4051ADR
+D Analog Mux, 8:1
+K Analog Mux
+F http://www.ti.com/lit/ds/symlink/sn74lv4051a.pdf
+$ENDCMP
+#
 #End Doc Library
